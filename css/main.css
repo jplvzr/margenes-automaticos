@@ -1,0 +1,16 @@
+.contenido {
+	border: 7px solid #FCF74A;
+	padding: 5px 5px;
+}
+.part1 {
+	width: 200px;
+	height: 150px;
+	margin: 0px;
+	text-align: center;
+}
+.part2 {
+	width: 200px;
+	height: 150px;
+	margin: auto;
+	text-align: left;
+}
